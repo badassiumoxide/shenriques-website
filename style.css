@@ -151,7 +151,7 @@ a:visited {
 .article a {
     display: block;
     padding: 10px;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .contact-section {
